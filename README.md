@@ -23,4 +23,4 @@ git操作
 
 刪除檔案
 
-git rm 檔名
+`git rm 檔名`
